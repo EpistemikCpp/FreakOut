@@ -16,4 +16,9 @@
 *.bsc
 *.pdb
 *.idb
+*.aps
+*.?de
+*.m?t
+*.DSW
+*.OBR
 RC*
