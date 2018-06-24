@@ -1,0 +1,509 @@
+Current time is Sat Dec 15 09:10:52 2007
+filename: happy_bitmap5.bmp 
+file size == 1222 
+image size == 144 
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sat Dec 15 09:36:52 2007
+filename: happy_bitmap5.bmp 
+file size == 1222 
+image size == 144 
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sat Dec 15 10:58:37 2007
+filename: bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144 
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sat Dec 15 13:05:58 2007
+filename: bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144 
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sat Dec 15 13:20:30 2007
+filename: bitmaps\happy_bitmap4.bmp 
+file size == 1286 
+image size == 208 
+width == 13 
+height == 13 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sat Dec 15 13:24:50 2007
+filename: bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144 
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sat Dec 15 13:30:52 2007
+filename: bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144 
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sat Dec 15 15:14:30 2007
+filename: bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144 
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sat Dec 15 15:27:02 2007
+filename: bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144 
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sat Dec 15 15:32:59 2007
+filename: bitmaps\happy_bitmap2.bmp 
+file size == 1334 
+image size == 256 
+width == 16 
+height == 16 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sat Dec 15 15:42:28 2007
+filename: bitmaps\happy_bitmap2.bmp 
+file size == 1334 
+image size == 256 
+width == 16 
+height == 16 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sat Dec 15 15:43:40 2007
+filename: bitmaps\happy_bitmap2.bmp 
+file size == 1334 
+image size == 256 
+width == 16 
+height == 16 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sat Dec 15 15:47:24 2007
+filename: bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144 
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sat Dec 15 15:53:29 2007
+filename: bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144 
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sat Dec 15 15:59:35 2007
+filename: bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144 
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sat Dec 15 16:01:51 2007
+filename: bitmaps\happy_bitmap1.bmp 
+file size == 246 
+image size == 192 
+width == 8 
+height == 8 
+bitsperpixel == 24 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sat Dec 15 16:02:30 2007
+filename: bitmaps\happy_bitmap256-1.bmp 
+file size == 1142 
+image size == 64 
+width == 8 
+height == 8 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sat Dec 15 16:04:05 2007
+filename: bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144 
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sat Dec 15 16:05:01 2007
+filename: bitmaps\happy_bitmap4.bmp 
+file size == 1286 
+image size == 208 
+width == 13 
+height == 13 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sat Dec 15 16:05:30 2007
+filename: bitmaps\happy_bitmap1.bmp 
+file size == 246 
+image size == 192 
+width == 8 
+height == 8 
+bitsperpixel == 24 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sat Dec 15 16:06:11 2007
+filename: bitmaps\happy_bitmap256-1.bmp 
+file size == 1142 
+image size == 64 
+width == 8 
+height == 8 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sat Dec 15 16:08:09 2007
+filename: bitmaps\happy_bitmap256-2.bmp 
+file size == 1142 
+image size == 64 
+width == 8 
+height == 8 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sat Dec 15 16:09:24 2007
+filename: bitmaps\happy_bitmap256-3.bmp 
+file size == 1142 
+image size == 64 
+width == 8 
+height == 8 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sat Dec 15 16:20:03 2007
+filename: bitmaps\happy_bitmap256-8.bmp 
+file size == 1142 
+image size == 64 
+width == 8 
+height == 8 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sat Dec 15 16:20:37 2007
+filename: bitmaps\happy_bitmap256-7.bmp 
+file size == 1142 
+image size == 64 
+width == 8 
+height == 8 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sat Dec 15 16:22:33 2007
+filename: bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144 
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sat Dec 15 16:28:14 2007
+filename: bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144 
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sun Dec 16 23:18:47 2007
+filename: bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144 
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sun Dec 23 19:54:35 2007
+filename: bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144 
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Sun Feb 10 18:28:02 2008
+filename: bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144 
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Mon Feb 11 00:42:07 2008
+filename: bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144 
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Wed Feb 13 09:01:50 2008
+filename: bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144 
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0 
+num important colors == 0 
+
+Current time is Wed Feb 13 10:07:37 2008
+filename: bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144   
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0   
+num important colors == 0 
+
+Current time is Wed Feb 13 10:08:05 2008
+filename: bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144   
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0   
+num important colors == 0 
+
+Current time is Wed Feb 13 10:21:58 2008
+filename: bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144   
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0   
+num important colors == 0 
+
+Current time is Wed Feb 13 10:25:44 2008
+filename: C:\PROG\CppProj\VS6\FreakProj\bitmaps\happy_bitmap256-7.bmp 
+file size == 1142 
+image size == 64   
+width == 8 
+height == 8 
+bitsperpixel == 8 
+num colors == 0   
+num important colors == 0 
+
+Current time is Wed Feb 13 10:26:50 2008
+filename: C:\PROG\CppProj\VS6\FreakProj\bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144   
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0   
+num important colors == 0 
+
+Current time is Wed Feb 13 10:28:16 2008
+filename: C:\PROG\CppProj\VS6\FreakProj\bitmaps\happy_bitmap2.bmp 
+file size == 1334 
+image size == 256   
+width == 16 
+height == 16 
+bitsperpixel == 8 
+num colors == 0   
+num important colors == 0 
+
+Current time is Wed Feb 13 10:58:14 2008
+filename: C:\PROG\CppProj\VS6\FreakProj\bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144   
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0   
+num important colors == 0 
+
+Current time is Wed Feb 13 11:49:16 2008
+filename: C:\PROG\CppProj\VS6\FreakProj\bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144   
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0   
+num important colors == 0 
+
+Current time is Thu Feb 14 00:03:50 2008
+filename: C:\PROG\CppProj\VS6\FreakProj\bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144   
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0   
+num important colors == 0 
+
+Current time is Thu Feb 14 00:09:45 2008
+filename: C:\PROG\CppProj\VS6\FreakProj\bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144   
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0   
+num important colors == 0 
+
+Current time is Sun Dec 28 08:58:27 2008
+filename: C:\PROG\CppProj\VS6\FreakProj\bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144   
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0   
+num important colors == 0 
+
+Current time is Sun Dec 28 09:28:36 2008
+filename: C:\PROG\CppProj\VS6\FreakProj\bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144   
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0   
+num important colors == 0 
+
+Current time is Sun Dec 28 12:51:18 2008
+filename: C:\PROG\CppProj\VS6\FreakProj\bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144   
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0   
+num important colors == 0 
+
+Current time is Sun Dec 28 13:07:55 2008
+filename: C:\PROG\CppProj\VS6\FreakProj\bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144   
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0   
+num important colors == 0 
+
+Current time is Sun Dec 28 13:16:31 2008
+filename: C:\PROG\CppProj\VS6\FreakProj\bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144   
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0   
+num important colors == 0 
+
+Current time is Sun Dec 28 16:33:11 2008
+filename: C:\PROG\CppProj\VS6\FreakProj\bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144   
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0   
+num important colors == 0 
+
+Current time is Mon Dec 29 09:34:47 2008
+filename: C:\PROG\CppProj\VS6\FreakProj\bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144   
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0   
+num important colors == 0 
+
+Current time is Mon Dec 29 09:51:21 2008
+filename: C:\PROG\CppProj\VS6\FreakProj\bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144   
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0   
+num important colors == 0 
+
+Current time is Mon Dec 29 09:53:12 2008
+filename: C:\PROG\CppProj\VS6\FreakProj\bitmaps\happy_bitmap5.bmp 
+file size == 1222 
+image size == 144   
+width == 12 
+height == 12 
+bitsperpixel == 8 
+num colors == 0   
+num important colors == 0 

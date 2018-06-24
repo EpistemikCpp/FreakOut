@@ -1,0 +1,10 @@
+
+/***************************************************************************
+
+ TODO: - store high values in registry - from Game_Shutdown()
+       - fix 'incollidable' situations
+       - too many consecutive misses and game over
+       - special ball from time to time with extra points for hits and 
+         extra penalties for misses
+
+****************************************************************************/

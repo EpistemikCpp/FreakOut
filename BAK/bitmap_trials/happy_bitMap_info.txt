@@ -1,0 +1,14 @@
+
+Current time is Sun Feb 23 14:31:00 2003
+&video_buffer == CCCCCCCC 
+video_buffer lPitch == CCCCCCCC 
+
+Current time is Sun Feb 23 14:39:18 2003
+&video_buffer == CCCCCCCC 
+video_buffer lPitch == CCCCCCCC 
+&happy_bitmap == 00000000 
+
+Current time is Sun Feb 23 14:41:37 2003
+&video_buffer == CCCCCCCC 
+video_buffer lPitch == CCCCCCCC 
+&happy_bitmap == 00000000 

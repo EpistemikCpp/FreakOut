@@ -1,0 +1,44 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: FreakProj - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x1009 /fo"Release/Script2.res" /i "Src" /d "NDEBUG" "C:\PROG\CppProj\VS6\FreakProj\Src\Script2.rc"" 
+Creating temporary file "C:\DOCUME~1\MARK-SA\LOCALS~1\Temp\RSP191.tmp" with contents
+[
+/nologo /MT /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /FR"Release/" /Fp"Release/FreakProj.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\PROG\CppProj\VS6\FreakProj\Src\blackbox.cpp"
+"C:\PROG\CppProj\VS6\FreakProj\Src\freakMain.cpp"
+"C:\PROG\CppProj\VS6\FreakProj\Src\freakout.cpp"
+]
+Creating command line "cl.exe @"C:\DOCUME~1\MARK-SA\LOCALS~1\Temp\RSP191.tmp"" 
+Creating temporary file "C:\DOCUME~1\MARK-SA\LOCALS~1\Temp\RSP192.tmp" with contents
+[
+ddraw.lib gdi32.lib user32.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/FreakProj.pdb" /debug /machine:I386 /out:"Release/FreakProj.exe" 
+.\Release\blackbox.obj
+.\Release\freakMain.obj
+.\Release\freakout.obj
+.\Release\Script2.res
+]
+Creating command line "link.exe @"C:\DOCUME~1\MARK-SA\LOCALS~1\Temp\RSP192.tmp""
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+blackbox.cpp
+freakMain.cpp
+freakout.cpp
+Linking...
+Creating command line "bscmake.exe /nologo /o"Release/FreakProj.bsc"  .\Release\blackbox.sbr .\Release\freakMain.sbr .\Release\freakout.sbr"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+FreakProj.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

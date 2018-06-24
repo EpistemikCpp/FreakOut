@@ -1,0 +1,198 @@
+Turbo Dump  Version 5.0.13.1 Copyright (c) 1988, 1997 Borland International
+                   Display of File FREAKPROJ.EXE
+
+Old Executable Header
+
+DOS File Size                                      4E055h  (319573. )
+Load Image Size                                      450h  (  1104. )
+Relocation Table entry count                          0000h  (     0. )
+Relocation Table address                              0040h  (    64. )
+Size of header record      (in paragraphs)            0004h  (     4. )
+Minimum Memory Requirement (in paragraphs)            0000h  (     0. )
+Maximum Memory Requirement (in paragraphs)            FFFFh  ( 65535. )
+File load checksum                                    0000h  (     0. )
+Overlay Number                                        0000h  (     0. )
+
+Initial Stack Segment  (SS:SP)			  0000:00B8
+Program Entry Point    (CS:IP)			  0000:0000
+
+
+Portable Executable (PE) File
+
+Header base: 000000D0
+
+CPU type                 80386
+Flags                    10E [ executable backwards 32bit ]
+DLL flags                0000 [ ]
+Linker Version           6.0
+Time stamp               3DC5BFFD
+O/S Version              4.0
+User Version             0.0
+Subsystem Version        4.0
+Subsystem                0002 [ Windows GUI ]
+Object count             00000005
+Symbols offset           00000000
+Symbols count            00000000
+Optional header size     00E0
+Magic #                  10B
+Code size                00041000
+Init Data size           0000E000
+Uninit Data size         00000000
+Entry RVA                0000DC40
+Image base               00400000
+Code base                00001000
+Data base                00001000
+Object/File align        00001000/00001000
+Reserved                 00000000
+Image size               00050000
+Header size              00001000
+Checksum                 00000000
+Stack reserve/commit     00100000/00001000
+Heap reserve/commit      00100000/00001000
+Number interesting RVAs  00000010
+Name                   RVA       Size  
+------------------  --------  --------
+Exports             00000000  00000000
+Imports             0004C000  00000064
+Resources           00000000  00000000
+Exceptions          00000000  00000000
+Security            00000000  00000000
+Fixups              0004D000  00001DDC
+Debug               00042000  0000001C
+Description         00000000  00000000
+TLS                 00000000  00000000
+Callbacks           00000000  00000000
+reserved            00000000  00000000
+reserved            0004C2F8  00000294
+reserved            00000000  00000000
+reserved            00000000  00000000
+reserved            00000000  00000000
+
+Object table:
+#   Name      VirtSize    RVA     PhysSize  Phys off  Flags   
+--  --------  --------  --------  --------  --------  --------
+01  .text     00040E60  00001000  00041000  00001000  60000020 [CER]
+02  .rdata    00003CB1  00042000  00004000  00042000  40000040 [IR]
+03  .data     00005D5C  00046000  00004000  00046000  C0000040 [IRW]
+04  .idata    00000E83  0004C000  00001000  0004A000  C0000040 [IRW]
+05  .reloc    0000241D  0004D000  00003000  0004B000  42000040 [IDR]
+
+Key to section flags:
+  C - contains code
+  D - discardable
+  E - executable
+  I - contains initialized data
+  R - readable
+  W - writeable
+
+Imports from DDRAW.dll
+    DirectDrawCreate(hint = 0007)
+
+Imports from GDI32.dll
+    SetBkMode(hint = 01ce)
+    SetTextColor(hint = 01f3)
+    GetStockObject(hint = 015f)
+    TextOutA(hint = 0205)
+
+Imports from USER32.dll
+    DefWindowProcA(hint = 0084)
+    MessageBoxA(hint = 01be)
+    GetAsyncKeyState(hint = 00e3)
+    PostMessageA(hint = 01de)
+    MessageBeep(hint = 01bd)
+    LoadIconA(hint = 019e)
+    LoadCursorA(hint = 019a)
+    RegisterClassA(hint = 01f2)
+    GetSystemMetrics(hint = 0146)
+    CreateWindowExA(hint = 0059)
+    ShowCursor(hint = 0266)
+    PeekMessageA(hint = 01dc)
+    TranslateMessage(hint = 0282)
+    DispatchMessageA(hint = 0095)
+    BeginPaint(hint = 000c)
+    EndPaint(hint = 00bb)
+    PostQuitMessage(hint = 01e0)
+
+Imports from KERNEL32.dll
+    GetModuleFileNameA(hint = 0124)
+    GetLastError(hint = 011a)
+    HeapFree(hint = 019f)
+    SetEnvironmentVariableA(hint = 0262)
+    CompareStringW(hint = 0022)
+    CompareStringA(hint = 0021)
+    GetLocaleInfoW(hint = 011d)
+    GetTimeZoneInformation(hint = 0170)
+    LCMapStringW(hint = 01c0)
+    LCMapStringA(hint = 01bf)
+    ReadFile(hint = 0218)
+    SetStdHandle(hint = 027c)
+    IsBadCodePtr(hint = 01b2)
+    GetOEMCP(hint = 0131)
+    GetACP(hint = 00b9)
+    GetStringTypeW(hint = 0156)
+    GetStringTypeA(hint = 0153)
+    GetTickCount(hint = 016d)
+    GetUserDefaultLangID(hint = 0172)
+    Sleep(hint = 0296)
+    InitializeCriticalSection(hint = 01aa)
+    InterlockedExchange(hint = 01ae)
+    EnterCriticalSection(hint = 0066)
+    DeleteCriticalSection(hint = 0055)
+    LeaveCriticalSection(hint = 01c1)
+    InterlockedDecrement(hint = 01ad)
+    InterlockedIncrement(hint = 01b0)
+    MultiByteToWideChar(hint = 01e4)
+    IsBadWritePtr(hint = 01b8)
+    IsBadReadPtr(hint = 01b5)
+    HeapValidate(hint = 01a7)
+    GetModuleHandleA(hint = 0126)
+    GetStartupInfoA(hint = 0150)
+    GetCommandLineA(hint = 00ca)
+    GetVersion(hint = 0174)
+    ExitProcess(hint = 007d)
+    RtlUnwind(hint = 022f)
+    RaiseException(hint = 020b)
+    FatalAppExitA(hint = 0085)
+    DebugBreak(hint = 0051)
+    GetStdHandle(hint = 0152)
+    WriteFile(hint = 02df)
+    OutputDebugStringA(hint = 01f5)
+    GetProcAddress(hint = 013e)
+    LoadLibraryA(hint = 01c2)
+    UnhandledExceptionFilter(hint = 02ad)
+    HeapAlloc(hint = 0199)
+    HeapReAlloc(hint = 01a2)
+    SetConsoleCtrlHandler(hint = 0241)
+    FreeEnvironmentStringsW(hint = 00b3)
+    HeapDestroy(hint = 019d)
+    HeapCreate(hint = 019b)
+    VirtualFree(hint = 02bf)
+    TerminateProcess(hint = 029e)
+    GetCurrentProcess(hint = 00f7)
+    VirtualAlloc(hint = 02bb)
+    GetCurrentThreadId(hint = 00fa)
+    TlsSetValue(hint = 02a5)
+    TlsAlloc(hint = 02a2)
+    TlsFree(hint = 02a3)
+    SetLastError(hint = 0271)
+    TlsGetValue(hint = 02a4)
+    GetCurrentThread(hint = 00f9)
+    FlushFileBuffers(hint = 00aa)
+    FreeEnvironmentStringsA(hint = 00b2)
+    CloseHandle(hint = 001b)
+    WideCharToMultiByte(hint = 02d2)
+    GetEnvironmentStrings(hint = 0106)
+    GetEnvironmentStringsW(hint = 0108)
+    SetHandleCount(hint = 026d)
+    GetFileType(hint = 0115)
+    SetFilePointer(hint = 026a)
+    IsValidCodePage(hint = 01bd)
+    SetUnhandledExceptionFilter(hint = 028b)
+    GetCPInfo(hint = 00bf)
+    IsValidLocale(hint = 01be)
+    GetUserDefaultLCID(hint = 0171)
+    GetLocaleInfoA(hint = 011c)
+    EnumSystemLocalesA(hint = 0077)
+    GetVersionExA(hint = 0175)
+
+
